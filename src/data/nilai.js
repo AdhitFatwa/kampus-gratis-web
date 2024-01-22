@@ -1,0 +1,208 @@
+export const nilai = {
+  semestrial_average: {
+    semester_grades: [
+      {
+        semester: 1,
+        credit_count: 6,
+        passed_credit_count: 6,
+        gpa: "3.80",
+      },
+      {
+        semester: 2,
+        credit_count: 6,
+        passed_credit_count: 6,
+        gpa: "4.00",
+      },
+      {
+        semester: 3,
+        credit_count: 3,
+        passed_credit_count: 3,
+        gpa: "3.60",
+      },
+      {
+        semester: 4,
+        credit_count: 9,
+        passed_credit_count: 9,
+        gpa: "3.90",
+      },
+      {
+        semester: 5,
+        credit_count: 6,
+        passed_credit_count: 6,
+        gpa: "3.20",
+      },
+      {
+        semester: 6,
+        credit_count: 8,
+        passed_credit_count: 8,
+        gpa: "3.90",
+      },
+    ],
+    average_gpa: "3.70",
+  },
+  semestrial_report: {
+    semestrial_grades: [
+      {
+        semester: 1,
+        subjects: [
+          {
+            subject_code: "",
+            subject_name: "Pengantar Data Science dan Kecerdasan Bisnis",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.80",
+            score: 85.99,
+            enroll_status: "LULUS",
+          },
+          {
+            subject_code: "",
+            subject_name: "Pengantar Teknologi Blockchain",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.80",
+            score: 91.08,
+            enroll_status: "LULUS",
+          },
+        ],
+      },
+      {
+        semester: 2,
+        subjects: [
+          {
+            subject_code: "",
+            subject_name: "Pengantar Data Science dan Kecerdasan Bisnis",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "4.00",
+            score: 85.99,
+            enroll_status: "LULUS",
+          },
+          {
+            subject_code: "",
+            subject_name: "Pengantar Teknologi Blockchain",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "4.00",
+            score: 91.08,
+            enroll_status: "LULUS",
+          },
+        ],
+      },
+      {
+        semester: 3,
+        subjects: [
+          {
+            subject_code: "",
+            subject_name: "Pengantar Data Science dan Kecerdasan Bisnis II",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.60",
+            score: 85.99,
+            enroll_status: "LULUS",
+          },
+        ],
+      },
+      {
+        semester: 4,
+        subjects: [
+          {
+            subject_code: "",
+            subject_name: "Pengantar Data Science",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.90",
+            score: 85.99,
+            enroll_status: "LULUS",
+          },
+          {
+            subject_code: "",
+            subject_name: "Pengantar Teknologi Blockchain",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.90",
+            score: 91.08,
+            enroll_status: "LULUS",
+          },
+          {
+            subject_code: "",
+            subject_name: "Pengantar Teknologi Blockchain II",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.90",
+            score: 91.08,
+            enroll_status: "LULUS",
+          },
+        ],
+      },
+      {
+        semester: 5,
+        subjects: [
+          {
+            subject_code: "",
+            subject_name: "Pengantar Data Science dan Kecerdasan Bisnis",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.20",
+            score: 85.99,
+            enroll_status: "LULUS",
+          },
+          {
+            subject_code: "",
+            subject_name: "Pengantar Teknologi Blockchain",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.20",
+            score: 91.08,
+            enroll_status: "LULUS",
+          },
+        ],
+      },
+      {
+        semester: 6,
+        subjects: [
+          {
+            subject_code: "",
+            subject_name: "Pengantar Data Science dan Kecerdasan Bisnis",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "4.00",
+            score: 85.99,
+            enroll_status: "LULUS",
+          },
+          {
+            subject_code: "",
+            subject_name: "Pengantar Teknologi Blockchain",
+            credit: 3,
+            score_letter: "A",
+            score_gpa: "3.80",
+            score: 91.08,
+            enroll_status: "LULUS",
+          },
+        ],
+      },
+    ],
+  },
+  transcript_report: {
+    subjects: [
+      {
+        subject_code: "",
+        subject_name: "Pengantar Data Science dan Kecerdasan Bisnis",
+        credit: 3,
+        score_letter: "A",
+        score_gpa: "4.00",
+        score: 85.99,
+        enroll_status: "LULUS",
+      },
+      {
+        subject_code: "",
+        subject_name: "Pengantar Teknologi Blockchain",
+        credit: 3,
+        score_letter: "A",
+        score_gpa: "4.00",
+        score: 91.08,
+        enroll_status: "LULUS",
+      },
+    ],
+    cumulative_gpa: "3.90",
+  },
+};
