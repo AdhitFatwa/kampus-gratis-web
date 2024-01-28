@@ -9,22 +9,22 @@ import { ChoiceBannerCard } from "../../components/home/ChoiceBannerCard";
 
 const BannerSection = () => {
   const ContentCardBanner = [
-    {
-      title: "Program Utama Kampus Gratis",
-      desc: "Kuliah, Pelatihan, Magang & Pengalaman Kerja",
-      bg: "bg-white",
-      hidden: "hidden",
-      color: "text-black",
-      src: "/images/home/banner/banner-1.png",
-    },
-    {
-      title: "Dapatkan Sertifikat Gratis!",
-      desc: "Sertifikat Sertifikat Sertifikat Sertifikat Sertifikat",
-      bg: "bg-blue-base",
-      color: "text-white",
-      hidden: "",
-      src: "/images/home/banner/banner-2.png",
-    },
+    // {
+    //   title: "Program Utama Kampus Gratis",
+    //   desc: "Kuliah, Pelatihan, Magang & Pengalaman Kerja",
+    //   bg: "bg-white",
+    //   hidden: "hidden",
+    //   color: "text-black",
+    //   src: "/images/home/banner/banner-1.png",
+    // },
+    // {
+    //   title: "Dapatkan Sertifikat Gratis!",
+    //   desc: "Sertifikat Sertifikat Sertifikat Sertifikat Sertifikat",
+    //   bg: "bg-blue-base",
+    //   color: "text-white",
+    //   hidden: "",
+    //   src: "/images/home/banner/banner-2.png",
+    // },
   ];
 
   return (

@@ -25,7 +25,7 @@ export const ProgressSection = () => {
           <p className="font-semibold text-xl text-neutral-900 mb-[8px] ">
             Lanjutkan Mata Kuliah Kamu
           </p>
-          <p className="text-sm font-normal text-neutral-900">Semester 1</p>
+          {/* <p className="text-sm font-normal text-neutral-900">Semester 1</p> */}
           <div className="wrapper mt-5 grid gap-y-[20px] mb-[20px]">
             {subjectProgress?.dataSubjects?.slice(0, lengthData)?.map((subject, i) => {
               return (
@@ -81,14 +81,14 @@ export const ProgressSection = () => {
             })}
             {subjectProgress?.dataSubjects?.length > 3 && (
               <button onClick={handleMore}>
-                <p className="text-center text-[12px] text-neutral-500 font-normal mb-[16px]">
+                {/* <p className="text-center text-[12px] text-neutral-500 font-normal mb-[16px]">
                   {more ? "Lihat Lebih Sedikit" : "Lihat Semua"}
                 </p>
                 <img
                   className={`mx-auto ${more && "rotate-180"}`}
                   src={"/icons/LihatSemua.svg"}
                   alt="Lihat Semua"
-                />
+                /> */}
               </button>
             )}
           </div>

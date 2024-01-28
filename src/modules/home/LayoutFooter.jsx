@@ -17,10 +17,10 @@ const LayoutFooter = () => {
                 loading="eager"
               />
             </Link>
-            <h1 className="text-xs md:text-sm text-neutral-800 text-justify left-6 mt-6 mb-4 md:mb-6">
+            {/* <h1 className="text-xs md:text-sm text-neutral-800 text-justify left-6 mt-6 mb-4 md:mb-6">
               Kampus Gratis disingkat KG, merupakan sistem manajemen e-learning, yang mencantumkan
               laporan peningkatan atau kemajuan pembelajaran mahasiswa, layaknya perguruan tinggi.
-            </h1>
+            </h1> */}
             <div className="flex justify-between flex-wrap gap-y-4 items-center">
               <div className="text-lg text-neutral-800 flex gap-x-6">
                 <FaFacebookF className="hover:text-version3-500 cursor-pointer transition-colors ease-in-out duration-300" />
@@ -100,7 +100,7 @@ const LayoutFooter = () => {
         <div className="w-full py-6">
           <section className="w-full max-w-[1440px] mx-auto text-center md:flex md:px-14 lg:px-16 text-[#737373] ">
             <div className="w-full md:flex md:w-1/2">
-              <h1 className="text-sm">2024 - www.kampusgratis.id - Hak Cipta Dilindungi.</h1>
+              <h1 className="text-sm">2022 - www.kampusgratis.id - Hak Cipta Dilindungi.</h1>
             </div>
             <div className="w-full md:w-1/2 md:flex justify-end text-sm gap-x-8">
               <Link to={"/"} className="pr-4">

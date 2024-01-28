@@ -18,13 +18,13 @@ const GlimpseSection = () => {
             Pendidikan tinggi setara S1 dan S2. Team KG didukung sepenuhnya oleh M-Knows Consulting,
             konsultan manajemen nasional yang berumur lebih dari 20 tahun.
           </p>
-          <p className="pt-6">
+          {/* <p className="pt-6">
             Dengan kekuatan dibidang solusi manajemen dan edukasi, M-Knows Konsisten dalam bidang
             Pelatihan, LMS & LXP, Solusi Artificial Intelligence bagi bisnis dan pendidikan,
             pengembangan Photorealistic VR Dari itu Kampus Gratis atau disingkat KG, mengadopsi
             aturan baru dari merdeka belajar depdikbud, seperti Magang, Studi independent
             Bersertifikat (MSIB) dan Rekognisi Pembelajaran Lampau (RPL).
-          </p>
+          </p> */}
           <p className={`${isHidden ? "hidden" : ""} pt-6`}>
             Sesuai Peraturan Menteri Kementerian Riset, Teknologi, Dan Pendidikan Tinggi Republik
             Indonesia N0. 26 tahun 2016. Program MSIB telah diikuti oleh team KG sejak awal

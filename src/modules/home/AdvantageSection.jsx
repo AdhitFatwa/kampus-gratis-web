@@ -3,7 +3,7 @@ const AdvantageSection = () => {
     <section className="w-full lg:flex px-8 py-5 max-w-[1440px] mx-auto">
       <div className="w-full lg:w-1/2 lg py-5 md:flex md:justify-center lg:justify-center">
         <img
-          width={500}
+          // width={500}
           height={500}
           src="/images/home/advantage/advantage-image.png"
           alt="advantages images"

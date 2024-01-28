@@ -7,7 +7,7 @@ export const data_article = [
     thumbnail:
       "https://res.cloudinary.com/dz5pv99lp/image/upload/v1696864327/articles/0f23cfe2-e8dc-44e2-a9f7-e13e9bf84a6b/articles_16c8cc8c-768b-4180-a99a-2c889a59c51c.jpg",
     slug: "fakta-menarik-seni-rupa",
-    views: 1,
+    // views: 1,
     category_id: "99ced147-cebc-4ce4-972f-9f73562e7ca6",
     author_id: "2315dc50-7bb8-42d5-9215-61d946376707",
   },
@@ -19,7 +19,7 @@ export const data_article = [
     thumbnail:
       "https://res.cloudinary.com/dz5pv99lp/image/upload/v1696864404/articles/1135e3e9-ca93-48e9-b10c-5d9023c619e4/articles_043b0870-3fea-412d-b61c-da18bc6b0b98.jpg",
     slug: "warna-dalam-komposisi-visual",
-    views: 1,
+    // views: 1,
     category_id: "99ced147-cebc-4ce4-972f-9f73562e7ca6",
     author_id: "2315dc50-7bb8-42d5-9215-61d946376707",
   },
@@ -31,7 +31,7 @@ export const data_article = [
     thumbnail:
       "https://res.cloudinary.com/dz5pv99lp/image/upload/v1696856520/articles/8aff8048-a3d9-4e94-bb9b-03fae37bf1bc/articles_b080486a-bfcb-4efb-a0cc-702eeebc4b4b.jpg",
     slug: "pengenalan-media-interaktif-dan-new-media-2",
-    views: 2,
+    // views: 2,
     category_id: "99ced147-cebc-4ce4-972f-9f73562e7ca6",
     author_id: "2315dc50-7bb8-42d5-9215-61d946376707",
   },
@@ -43,7 +43,7 @@ export const data_article = [
     thumbnail:
       "https://res.cloudinary.com/dz5pv99lp/image/upload/v1696864578/articles/739e7537-04a1-4fe1-bb9b-fd514fa591bd/articles_c942e73a-9665-4bf0-b6c8-28123ace0140.jpg",
     slug: "gaya-dan-aliran-seni-rupa",
-    views: 0,
+    // views: 0,
     category_id: "99ced147-cebc-4ce4-972f-9f73562e7ca6",
     author_id: "2315dc50-7bb8-42d5-9215-61d946376707",
   },

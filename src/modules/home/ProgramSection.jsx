@@ -14,22 +14,22 @@ const ProgramSection = () => {
   const ContentCardProgram = [
     {
       title: "Kampus Gratis",
-      tag: "12 Program Studi",
+      // tag: "12 Program Studi",
       src: "/images/home/program/program-card-1.png",
     },
     {
       title: "Pelatihan",
-      tag: "Sertifikasi Pelatihan",
+      // tag: "Sertifikasi Pelatihan",
       src: "/images/home/program/program-card-2.png",
     },
     {
       title: "Kampus Gratis Magang",
-      tag: "Sertifikasi Kerja",
+      // tag: "Sertifikasi Kerja",
       src: "/images/home/program/program-card-3.png",
     },
     {
       title: "Kampus Gratis Partime",
-      tag: "100+ Mitra Terhubung",
+      // tag: "100+ Mitra Terhubung",
       src: "/images/home/program/program-card-4.png",
     },
   ];

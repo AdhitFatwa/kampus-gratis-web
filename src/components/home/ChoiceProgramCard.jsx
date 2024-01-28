@@ -18,12 +18,12 @@ export const ChoiceProgramCard = (props) => {
           </p>
           <h1 className="text-black font-semibold text-[20px] mb-2">{props.title}</h1>
         </div>
-        <Button
+        {/* <Button
           type="button"
           className="text-blue-base border-2 border-blue-base bg-transparent py-3 px-3 text-lg font-semibold rounded-lg flex justify-between items-center"
         >
           Telusuri Program <img src="icons/right-arrow.svg" alt="" />{" "}
-        </Button>
+        </Button> */}
       </div>
     </section>
   );

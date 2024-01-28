@@ -7,9 +7,9 @@ const ArticleSection = () => {
       <div className="py-10 relative">
         <div className="relative z-10">
           <h1 className="font-bold text-4xl text-center">Sekilas Ilmu</h1>
-          <p className="font-medium text-xl text-center ">Informasi untuk membantu karirmu</p>
+          {/* <p className="font-medium text-xl text-center ">Informasi untuk membantu karirmu</p> */}
         </div>
-        <img
+        {/* <img
           src="/images/home/article/article-stars.png"
           alt={"card-landing"}
           width={131}
@@ -19,7 +19,7 @@ const ArticleSection = () => {
             width: "131px",
             height: "131px",
           }}
-        />
+        /> */}
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-[15px]">

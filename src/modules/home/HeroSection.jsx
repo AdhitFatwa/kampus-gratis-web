@@ -18,9 +18,9 @@ const HeroSection = () => {
                 <h1 className="w-full md:w-[751px] md:text-[44px] md:leading-[54px] text-center md:text-start text-white text-2xl font-bold leading-[34px]">
                   Pendidikan Berkualitas Tanpa Biaya
                 </h1>
-                <h2 className="w-full md:w-[751px] md:text-[28px] md:leading-[38px] text-center md:text-start text-orange-base text-xl font-bold leading-[27px] pt-6">
+                {/* <h2 className="w-full md:w-[751px] md:text-[28px] md:leading-[38px] text-center md:text-start text-orange-base text-xl font-bold leading-[27px] pt-6">
                   Kampus Gratis, Magang, dan Partime
-                </h2>
+                </h2> */}
                 <div className="w-full md:w-[720px] text-center md:text-start text-neutral-50 text-xl font-normal leading-relaxed pt-6">
                   Platform Pendidikan Tinggi Gratis Pertama di Indonesia. Dengan akses belajar yang
                   mudah bagi semua tanpa syarat

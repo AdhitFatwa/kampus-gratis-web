@@ -14,7 +14,7 @@ export const SubjectSection = ({ dataSubjectProps }) => {
     <div className="w-full mx-auto">
       <h1 className="w-fit mx-auto font-bold text-2xl">Mata Kuliah</h1>
       <div className="">
-        <div className="bg-[#F5F5F5] h-[56px] mt-10 mb-10 rounded-[8px] text-black">
+        {/* <div className="bg-[#F5F5F5] h-[56px] mt-10 mb-10 rounded-[8px] text-black">
           <div className="flex gap-3 py-4 ">
             <img src={"/images/mystudy/search.svg"} alt={"search"} width={28} className="ml-3" />
             <input
@@ -24,7 +24,7 @@ export const SubjectSection = ({ dataSubjectProps }) => {
               onChange={(e) => handleInputChange(e)}
             />
           </div>
-        </div>
+        </div> */}
       </div>
       <div className="relative grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-y-7 gap-x-9 mt-[30px] pb-40">
         {filteredData?.length === 0 ? (

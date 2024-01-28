@@ -28,7 +28,7 @@ const InvitationSection = () => {
             Lihat Detail{" "}
           </Button>
         </div>
-        <div className="w-full md:w-1/2 flex justify-end">
+        {/* <div className="w-full md:w-1/2 flex justify-end">
           <img
             src="/images/home/invitation/invitation-2.png"
             width={515}
@@ -37,7 +37,7 @@ const InvitationSection = () => {
             loading="eager"
             className=" h-[100%] z-10 block md:absolute -right-28  md:top-28 scale-[1.2] object-contain   md:scale-[1.5]"
           />
-        </div>
+        </div> */}
       </main>
     </section>
   );

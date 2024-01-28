@@ -45,7 +45,7 @@ export const ResumeSection = () => {
           </div>
           <span className="text-white/75">Pada semester ini</span>
         </div>
-        <div className="absolute md:right-[10px] lg:right-[50px] -bottom-[216px]  grid grid-cols-2 gap-2 lg:gap-4">
+        {/* <div className="absolute md:right-[10px] lg:right-[50px] -bottom-[216px]  grid grid-cols-2 gap-2 lg:gap-4">
           {resumeItems.map(({ src, title }, index) => {
             return (
               <div
@@ -64,7 +64,7 @@ export const ResumeSection = () => {
               </div>
             );
           })}
-        </div>
+        </div> */}
       </section>
     </div>
   );

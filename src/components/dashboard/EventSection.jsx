@@ -29,7 +29,7 @@ export const EventSection = () => {
 
   return (
     <>
-      {events !== null && events && events.length > 0 ? (
+      {/* {events !== null && events && events.length > 0 ? (
         <div className="bg-white p-7 rounded-md shadow-sm w-full flex overflow-hidden">
           <Swiper pagination={true} modules={[Pagination]} className="mySwiper relative dashboard">
             {events?.map((event, index) => {
@@ -121,7 +121,7 @@ export const EventSection = () => {
             </h1>
           </section>
         </div>
-      )}
+      )} */}
     </>
   );
 };

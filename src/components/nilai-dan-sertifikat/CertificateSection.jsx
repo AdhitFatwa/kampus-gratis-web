@@ -82,7 +82,7 @@ export const CertificateSection = () => {
                     onClick={() => setPopupStatus(true)}
                     download
                   >
-                    <div className="w-full mt-[12px]">
+                    {/* <div className="w-full mt-[12px]">
                       <h1 className="text-center text-neutral-900 text-[18px] font-[500]">
                         {item?.subject_certificate?.name}
                       </h1>
@@ -93,7 +93,7 @@ export const CertificateSection = () => {
                           ? "Mata Kuliah"
                           : ""}
                       </p>
-                    </div>
+                    </div> */}
                   </Card>
                   <div className="w-[1000px]">
                     <PopupModal

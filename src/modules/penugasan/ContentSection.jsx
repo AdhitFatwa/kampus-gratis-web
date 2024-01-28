@@ -35,7 +35,7 @@ export const ContentSection = () => {
         <div className="bg-white h-full rounded-[8px]">
           <div className="mb-5 lg:mb-8 text-[20px] font-semibold text-[#262626] border-b border-gray-200 hover:text-[#000]">
             <ul className="p-2 flex flex-wrap gap-5 justify-center items-center">
-              <li className="mr-2">
+              {/* <li className="mr-2">
                 <Link
                   to={"/penugasan/?tab=semua-tugas"}
                   className={`inline-block p-4 ${
@@ -96,7 +96,7 @@ export const ContentSection = () => {
                 >
                   Selesai
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
           <div className="pb-8">

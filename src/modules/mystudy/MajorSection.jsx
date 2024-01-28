@@ -12,10 +12,10 @@ export const MajorSection = (dataMajorProps) => {
   const majorDetailsAmount = [student_count, subject_count, credit_count, current_semester];
 
   const constMajorValue = [
-    { icon: "/images/mystudy/mahasiswa.svg", detail: "Mahasiswa", warna: "#E9F6FD" },
-    { icon: "/images/mystudy/matkul.svg", detail: "Matkul", warna: "#E3FBDA" },
-    { icon: "/images/mystudy/sks.svg", detail: "Sks", warna: "#FEF6D0" },
-    { icon: "/images/mystudy/semester.svg", detail: "Semester", warna: "#E9F6FD" },
+    // { icon: "/images/mystudy/mahasiswa.svg", detail: "Mahasiswa", warna: "#E9F6FD" },
+    // { icon: "/images/mystudy/matkul.svg", detail: "Matkul", warna: "#E3FBDA" },
+    // { icon: "/images/mystudy/sks.svg", detail: "Sks", warna: "#FEF6D0" },
+    // { icon: "/images/mystudy/semester.svg", detail: "Semester", warna: "#E9F6FD" },
   ];
 
   return (
